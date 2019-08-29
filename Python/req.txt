@@ -1,0 +1,1576 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>LostFilm.TV. Лучшие сериалы. Официальный сайт Лостфильм - уникальный ресурс о зарубежных сериалах!</title>
+		<link rel="icon" href="/favicon.ico" />
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="keywords" content="lostfilm сериалы лостфильм официальный сайт сериал lost film лост фильм лучшие сериалы самые популярные топовые зарубежные сериалы" />
+		<meta name="description" content="LostFilm.TV. Официальный сайт. Лучшие зарубежные сериалы." />
+		<meta property='og:site_name' content="LostFilm.TV" />
+		<script type="text/javascript" src="/js/jquery-2.1.4.js?t=1&r=2&y=3"></script>
+		<script type="text/javascript" src="/js/jquery.appear.js"></script>
+		<script type="text/javascript" src="/js/jquery.confirm/jquery.confirm.js"></script>
+		<script type="text/javascript" src="/js/noty/packaged/jquery.noty.packaged.min.js"></script>
+		<script type="text/javascript" src="/js/jquery.transition.min.js"></script>
+		<script type="text/javascript" src="/js/noty/themes/lostfilm.js"></script>
+		<script type="text/javascript" src="/js/main.min.js?ver=3"></script>
+		<script type="text/javascript" src="/js/doT.min.js"></script>
+		<script type="text/javascript" src="/js/lf.socials.js"></script>
+		<script type="text/javascript" src="/js/lang.js?4"></script>
+		<script type="text/javascript" src="//lkn.lostfilm.tv/240x400_.js"></script>
+		<script type="text/javascript" src="/js/slick/slick.min.js" charset="utf-8"></script>
+
+		<script src="/js/flowplayer.lost/flowplayer.custom.js"></script>
+		<script src="/js/flowplayer/quality.selector.js"></script>
+		<link rel="stylesheet" type="text/css" href="/js/flowplayer.lost/css/lost.css" media="screen" />
+		<link rel="stylesheet" type="text/css" href="/js/flowplayer/skin/quality.selector.css" media="screen" />
+		<script type="text/javascript" src="/js/lf.video.js"></script>
+
+		<link rel="stylesheet" type="text/css" href="/css/reset.css" media="screen" />
+		<link rel="stylesheet" type="text/css" href="/css/layout.css?5" media="screen" />
+		<link rel="stylesheet" type="text/css" href="/css/new_style.css" media="screen" />
+<script>
+var isFramed = false;
+try
+{
+	isFramed = window != window.top || document != top.document || self.location != top.location;
+}
+catch(e)
+{
+	isFramed = true;
+}
+if(isFramed)
+{
+//	top.location.replace("/");
+}
+</script>
+<style type="text/css">
+.lstfml
+{
+	background:url('//static.lostfilm.tv/ebllbe/1/d/1dbb7bf76a3e93ccdece5026b970267f.jpg') #8b8674 no-repeat top center;
+}
+
+.lstfml .footer
+{
+	color: #ffffff;
+	background:#8b8674;
+}
+
+.lstfml .footer .links a {
+    color: #ffffff !important;
+}
+</style>
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-22529302-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+	</head>
+	<body class="lstfml">
+	<span>
+	<a href="/series/Lethal_Weapon/"><span class="oi_papa_oi" title="Смертельное оружие"></span></a>
+<style>
+	.oi_papa_oi
+	{
+	height:249.99px;
+	width:100%;
+	display:block;
+	}
+</style>
+</span>
+
+	<!-- Yandex.Metrika counter -->
+	<script type="text/javascript" >
+		(function (d, w, c) {
+			(w[c] = w[c] || []).push(function() {
+				try {
+					w.yaCounter5681512 = new Ya.Metrika({
+						id:5681512,
+						clickmap:true,
+						trackLinks:true,
+						accurateTrackBounce:true,
+						webvisor:true
+					});
+				} catch(e) { }
+			});
+
+			var n = d.getElementsByTagName("script")[0],
+				s = d.createElement("script"),
+				f = function () { n.parentNode.insertBefore(s, n); };
+			s.type = "text/javascript";
+			s.async = true;
+			s.src = "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/watch.js";
+
+			if (w.opera == "[object Opera]") {
+				d.addEventListener("DOMContentLoaded", f, false);
+			} else { f(); }
+		})(document, window, "yandex_metrika_callbacks");
+	</script>
+	<noscript><div><img src="https://mc.yandex.ru/watch/5681512" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+	<!-- /Yandex.Metrika counter -->
+<script language="JavaScript">
+        var img = new Image();
+        img.src = 'https://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*lostfilm_tv/ru/CP1251/tmsec=lostfilmtv_total/';
+</script>
+<noscript>
+        <img src="https://www.tns-counter.ru/V13a****lostfilm_tv/ru/CP1251/tmsec=lostfilmtv_total/" width="1" height="1" alt="" />
+</noscript>
+<!--/ tns-counter.ru -->
+
+		<div class="chototest" style="position:absolute;height:1px;top:-1px"></div>
+		<div class="wrapper">
+			<div class="mainheader">
+				<div class="top-menu">
+					<a href="/" class="logo-link" title="LostFilm.TV: Лучшие сериалы"></a>
+					<div class="left-side">
+						<div class="menu">
+							<a href="/series/" class="item"><span class="left">Сериалы</span><span class="right"></span></a>
+							<a href="/news/" class="item"><span class="left">Новости</span><span class="right"></span></a>
+							<a href="/video/" class="item"><span class="left">Видео</span><span class="right"></span></a>
+							<a href="/new/" class="item"><span class="left">Новинки</span><span class="right"></span></a>
+							<a href="/schedule/" class="item"><span class="left">Расписание</span><span class="right"></span></a>
+						</div>
+					</div>
+					<div class="right-side">
+						<form action="/search/" method="get">
+						<input type="text" name="q" class="search-input" placeholder="Поиск" onKeyUp="searchSomething(this);" autocomplete="off"/>
+						<input type="submit" class="search-btn" />
+						<div class="search-dropdown-pane" id="some_search_results"></div>
+						</form>
+					</div>
+				</div>
+			</div>
+			<div class="content">
+				<div id="main-left-side">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<a class="header" href="/series/?type=search&g=&s=1&t=1"><div class="title">Новые сериалы</div></a>
+	<a class="text-block" style="cursor:pointer" href="/series/Black_Lightning" title="Черная молния">
+		<img src="//static.lostfilm.tv/Images/351/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Черная молния</div>
+			<div class="title-en">Black Lightning</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/The_Rookie" title="Новобранец">
+		<img src="//static.lostfilm.tv/Images/384/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Новобранец</div>
+			<div class="title-en">The Rookie</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/The_Gifted" title="Одаренные">
+		<img src="//static.lostfilm.tv/Images/338/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Одаренные</div>
+			<div class="title-en">The Gifted</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/The_Little_Drummer_Girl" title="Маленькая барабанщица">
+		<img src="//static.lostfilm.tv/Images/395/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Маленькая барабанщица</div>
+			<div class="title-en">The Little Drummer Girl</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/Manifest" title="Манифест">
+		<img src="//static.lostfilm.tv/Images/388/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Манифест</div>
+			<div class="title-en">Manifest</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/The_Good_Doctor" title="Хороший доктор">
+		<img src="//static.lostfilm.tv/Images/348/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Хороший доктор</div>
+			<div class="title-en">The Good Doctor</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/Kidding" title="Шучу">
+		<img src="//static.lostfilm.tv/Images/382/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Шучу</div>
+			<div class="title-en">Kidding</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/Charmed" title="Зачарованные">
+		<img src="//static.lostfilm.tv/Images/392/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Зачарованные</div>
+			<div class="title-en">Charmed</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/Star_Trek_Discovery" title="Звездный путь: Дискавери">
+		<img src="//static.lostfilm.tv/Images/336/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Звездный путь: Дискавери</div>
+			<div class="title-en">Star Trek: Discovery</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/Star_Wars_Resistance" title="Звёздные войны: Сопротивление">
+		<img src="//static.lostfilm.tv/Images/389/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Звёздные войны: Сопротивление</div>
+			<div class="title-en">Star Wars Resistance</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a href="/series/?type=search&g=&s=1&t=1" class="link arrow">Все новые сериалы</a>
+<div class="clr"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<a class="header" href="/series/?type=search&g=&s=1&t=2"><div class="title">Топ снимающихся</div></a>
+	<a class="text-block" style="cursor:pointer" href="/series/The_Expanse" title="Экспансия">
+		<img src="//static.lostfilm.tv/Images/260/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Экспансия</div>
+			<div class="title-en">The Expanse</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/Game_of_Thrones" title="Игра престолов">
+		<img src="//static.lostfilm.tv/Images/145/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Игра престолов</div>
+			<div class="title-en">Game of Thrones</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/Stranger_Things" title="Загадочные события">
+		<img src="//static.lostfilm.tv/Images/286/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Загадочные события</div>
+			<div class="title-en">Stranger Things</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/Billions" title="Миллиарды">
+		<img src="//static.lostfilm.tv/Images/275/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Миллиарды</div>
+			<div class="title-en">Billions</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/Better_Call_Saul" title="Лучше звоните Солу">
+		<img src="//static.lostfilm.tv/Images/237/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Лучше звоните Солу</div>
+			<div class="title-en">Better Call Saul</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/Taboo" title="Табу">
+		<img src="//static.lostfilm.tv/Images/301/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Табу</div>
+			<div class="title-en">Taboo</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/Peaky_Blinders" title="Острые козырьки">
+		<img src="//static.lostfilm.tv/Images/197/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Острые козырьки</div>
+			<div class="title-en">Peaky Blinders</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/Altered_Carbon" title="Видоизмененный углерод">
+		<img src="//static.lostfilm.tv/Images/353/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Видоизмененный углерод</div>
+			<div class="title-en">Altered Carbon</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/The_Punisher" title="Каратель">
+		<img src="//static.lostfilm.tv/Images/340/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Каратель</div>
+			<div class="title-en">The Punisher</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/Lucifer" title="Люцифер">
+		<img src="//static.lostfilm.tv/Images/279/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Люцифер</div>
+			<div class="title-en">Lucifer</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a href="/series/?type=search&g=&s=1&t=2" class="link arrow">Весь топ снимающихся</a>
+<div class="clr"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<a class="header" href="/series/?type=search&g=&s=1&t=5"><div class="title">Топ завершенных</div></a>
+	<a class="text-block" style="cursor:pointer" href="/series/Breaking_Bad" title="Во все тяжкие">
+		<img src="//static.lostfilm.tv/Images/119/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Во все тяжкие</div>
+			<div class="title-en">Breaking Bad</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/Firefly" title="Светлячок">
+		<img src="//static.lostfilm.tv/Images/92/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Светлячок</div>
+			<div class="title-en">Firefly</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/Person_of_Interest" title="Подозреваемый">
+		<img src="//static.lostfilm.tv/Images/159/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Подозреваемый</div>
+			<div class="title-en">Person of Interest</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/Spartacus_Gods_of_the_Arena" title="Спартак: Боги арены">
+		<img src="//static.lostfilm.tv/Images/139/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Спартак: Боги арены</div>
+			<div class="title-en">Spartacus: Gods of the Arena</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/Narcos" title="Барыги">
+		<img src="//static.lostfilm.tv/Images/254/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Барыги</div>
+			<div class="title-en">Narcos</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/House_MD" title="Доктор Хаус">
+		<img src="//static.lostfilm.tv/Images/51/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Доктор Хаус</div>
+			<div class="title-en">House M.D.</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/Grimm" title="Гримм">
+		<img src="//static.lostfilm.tv/Images/160/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Гримм</div>
+			<div class="title-en">Grimm</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/Spartacus_Blood_and_Sand" title="Спартак: Кровь и песок">
+		<img src="//static.lostfilm.tv/Images/116/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Спартак: Кровь и песок</div>
+			<div class="title-en">Spartacus: Blood and Sand</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/Spartacus_War_of_the_Damned" title="Спартак: Война проклятых">
+		<img src="//static.lostfilm.tv/Images/180/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Спартак: Война проклятых</div>
+			<div class="title-en">Spartacus: War of the Damned</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a class="text-block" style="cursor:pointer" href="/series/Forever" title="Вечность">
+		<img src="//static.lostfilm.tv/Images/227/Posters/icon.jpg" class="thumb" />
+		<div class="body">
+			<div class="title-ru">Вечность</div>
+			<div class="title-en">Forever</div>
+		</div>
+	</a>
+	<div class="clr"></div>
+	<a href="/series/?type=search&g=&s=1&t=5" class="link arrow">Весь топ завершенных</a>
+<div class="clr"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					<div class="clr"></div>
+					<div class="bottom-push"></div>
+					<div class="link-box" style="cursor:pointer" onclick="location.href='/';">
+						<div style="border-top: 1px solid #e5e5e5; width:92%; margin-left:10px;"></div>
+						<a href="/series/" class="link arrow">Все сериалы</a>
+					</div>
+				</div>
+				<div id="main-center-side">
+					<div class="f-page">
+				
+<script type="text/javascript" src="/js/info_news_widget_new.js"></script>
+<div class="f-section">
+	<div class="f-section--title">Новости кино от <a href="//lostfilm.info" target="_blank">LostFilm.info</a></div>
+	<div class="f-section--body">
+		<div class="f-news">
+			<div class="f-news--photos">
+		<div class="f-news--photo"><img src="//lostfilm.info/images/news/95815.jpg" id="news-image-1" alt=""></div>
+		<div class="f-news--photo"><img src="//lostfilm.info/images/news/95813.jpg" id="news-image-2" alt=""></div>
+		<div class="f-news--photo"><img src="//lostfilm.info/images/news/95811.jpg" id="news-image-3" alt=""></div>
+		<div class="f-news--photo"><img src="//lostfilm.info/images/news/95805.jpg" id="news-image-4" alt=""></div>
+		<div class="f-news--photo"><img src="//lostfilm.info/images/news/95795.jpg" id="news-image-5" alt=""></div>
+		<div class="f-news--photo"><img src="//lostfilm.info/images/news/95800.jpg" id="news-image-6" alt=""></div>
+			</div>
+			<div class="f-news--links">
+				<a class="f-news--link is-active" href="//lostfilm.info/news/id34236/" var="1" target="_blank"><span>Джо Пантольяно заведет виноградник</span></a>
+				<a class="f-news--link is-active" href="//lostfilm.info/news/id34232/" var="2" target="_blank"><span>Мена Сувари проявит стойкость</span></a>
+				<a class="f-news--link is-active" href="//lostfilm.info/news/id34228/" var="3" target="_blank"><span>Гении среди нас</span></a>
+				<a class="f-news--link is-active" href="//lostfilm.info/news/id34230/" var="4" target="_blank"><span>Из домохозяек в режиссеры</span></a>
+				<a class="f-news--link is-active" href="//lostfilm.info/news/id34217/" var="5" target="_blank"><span>Blumhouse расширяет горизонты</span></a>
+				<a class="f-news--link is-active" href="//lostfilm.info/news/id34233/" var="6" target="_blank"><span>Свобода и равенство</span></a>
+			</div>
+		</div>
+	</div>
+</div>
+<!--
+<div class="header"><div class="title"></div></div>
+<a href="" class="link arrow">Еще</a>
+<div class="clr"></div>
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="f-section">
+	<div class="f-section--title">Новости сериалов</div>
+	<div class="f-section--body">
+		<div class="f-grid">
+			<div class="f-grid--item">
+				<a class="f-card" href="/news/id6880">
+				<div class="f-card--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/4/45665c8cc3b67d8f05a85e0d91110299.jpg');"></div>
+				<div class="f-content">
+					<div class="f-content--title">Межпланетный балдеж</div>
+					<div class="f-content--text">Озвученный трейлер второго сезона «Орвилла»</div>
+				</div>
+				<div class="f-card--tools">
+					<div class="f-card--date">16 ноября 2018 г.</div>
+					<div class="f-card--comments">13</div>
+				</div>
+				</a>
+			</div>
+			<div class="f-grid--item">
+				<a class="f-card" href="/news/id6879">
+				<div class="f-card--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/7/73c74d35233f01f2d5684bcc09b0b019.jpg');"></div>
+				<div class="f-content">
+					<div class="f-content--title">Семьянин, агент, герой</div>
+					<div class="f-content--text">Озвученный трейлер сериала «Барыги: Мексика»</div>
+				</div>
+				<div class="f-card--tools">
+					<div class="f-card--date">16 ноября 2018 г.</div>
+					<div class="f-card--comments">3</div>
+				</div>
+				</a>
+			</div>
+			<div class="f-grid--item">
+				<a class="f-card" href="/news/id6878">
+				<div class="f-card--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/d/d2dc55cd8af5ab2f00d888af17b072f7.jpg');"></div>
+				<div class="f-content">
+					<div class="f-content--title">Герои с плащами и без</div>
+					<div class="f-content--text">Новые постеры к «Супергёрл», «Черной молнии» и «Зачарованным»</div>
+				</div>
+				<div class="f-card--tools">
+					<div class="f-card--date">16 ноября 2018 г.</div>
+					<div class="f-card--comments">20</div>
+				</div>
+				</a>
+			</div>
+			<div class="f-grid--item">
+				<a class="f-card" href="/news/id6877">
+				<div class="f-card--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/9/9fb93bc5d071b907f3b70643ef743521.jpg');"></div>
+				<div class="f-content">
+					<div class="f-content--title">Любовь витает в воздухе</div>
+					<div class="f-content--text">Кастинг первого сезона «Манифеста»</div>
+				</div>
+				<div class="f-card--tools">
+					<div class="f-card--date">16 ноября 2018 г.</div>
+					<div class="f-card--comments">2</div>
+				</div>
+				</a>
+			</div>
+			<div class="f-grid--item">
+				<a class="f-card" href="/news/id6876">
+				<div class="f-card--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/5/540a14c434403def777ed193a150cd40.jpg');"></div>
+				<div class="f-content">
+					<div class="f-content--title">От заката до рассвета в Мексике</div>
+					<div class="f-content--text">Кастинг сериала «Барыги: Мексика»</div>
+				</div>
+				<div class="f-card--tools">
+					<div class="f-card--date">15 ноября 2018 г.</div>
+					<div class="f-card--comments">13</div>
+				</div>
+				</a>
+			</div>
+			<div class="f-grid--item">
+				<a class="f-card" href="/news/id6875">
+				<div class="f-card--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/a/a6e440bcbe9eaa84ac0ad362c10928f5.jpg');"></div>
+				<div class="f-content">
+					<div class="f-content--title">«Американскую публику нагота отпугивает»</div>
+					<div class="f-content--text">Флоренс Пью о «Маленькой барабанщице» и отношении зрителей к ягодицами Тома Хиддлстона</div>
+				</div>
+				<div class="f-card--tools">
+					<div class="f-card--date">15 ноября 2018 г.</div>
+					<div class="f-card--comments">15</div>
+				</div>
+				</a>
+			</div>
+			<div class="f-grid--item">
+				<a class="f-card" href="/news/id6874">
+				<div class="f-card--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/e/e04349e55b66a0a8eec305d7e1c8ea84.jpg');"></div>
+				<div class="f-content">
+					<div class="f-content--title">Наука на службе сил зла</div>
+					<div class="f-content--text">Кастинг второго сезона «Черной молнии»</div>
+				</div>
+				<div class="f-card--tools">
+					<div class="f-card--date">14 ноября 2018 г.</div>
+					<div class="f-card--comments">16</div>
+				</div>
+				</a>
+			</div>
+			<div class="f-grid--item">
+				<a class="f-card" href="/news/id6873">
+				<div class="f-card--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/1/1cd31eed5fb968509bbcf33db2533e85.jpg');"></div>
+				<div class="f-content">
+					<div class="f-content--title">Новогодние приключения сироток Бодлер</div>
+					<div class="f-content--text">Дата премьеры и кадры финального сезона «Лемони Сникет: 33 несчастья»</div>
+				</div>
+				<div class="f-card--tools">
+					<div class="f-card--date">14 ноября 2018 г.</div>
+					<div class="f-card--comments">13</div>
+				</div>
+				</a>
+			</div>
+		</div>
+	</div>
+	<br />
+	<br />
+	<div class="f-more"><a href="/news">Все новости</a></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="f-section">
+	<div class="f-section--title">Популярное</div>
+	<div class="f-section--body">
+			<div class="f-slider is-popular">
+				<a class="f-item" href="/news/id6864">
+				<div class="slide f-slider--item">
+					<div class="f-item">
+						<div class="f-item--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/4/big_49f79caeee7910415dd80f28fd94fdb7.jpg');">
+							<div class="f-item--comments">42</div>
+						</div>
+						<div class="f-item--body">
+							<div class="f-content">
+								<div class="f-content--title">Капитан Георгиу отправится в сольный полет?</div>
+								<div class="f-content--spoiler">Возможны спойлеры!</div>
+								<div class="f-content--text">&laquo;Звездный путь: Дискавери&raquo; может получить спин-офф</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				</a>
+				<a class="f-item" href="/news/id6857">
+				<div class="slide f-slider--item">
+					<div class="f-item">
+						<div class="f-item--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/a/big_a3365ae850b1af71982cb4413f1c7577.jpg');">
+							<div class="f-item--comments">89</div>
+						</div>
+						<div class="f-item--body">
+							<div class="f-content">
+								<div class="f-content--title">Дьявол в деталях и музыка проклятых</div>
+								<div class="f-content--text">Десять причин посмотреть сериал &laquo;Табу&raquo;</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				</a>
+				<a class="f-item" href="/news/id6861">
+				<div class="slide f-slider--item">
+					<div class="f-item">
+						<div class="f-item--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/7/big_76516845229d363111f2d47b888f2029.jpg');">
+							<div class="f-item--comments">25</div>
+						</div>
+						<div class="f-item--body">
+							<div class="f-content">
+								<div class="f-content--title">Короли родятся. Короли погибнут</div>
+								<div class="f-content--text">Озвученный трейлер третьего сезона &laquo;Последнего королевства&raquo;</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				</a>
+				<a class="f-item" href="/news/id6856">
+				<div class="slide f-slider--item">
+					<div class="f-item">
+						<div class="f-item--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/9/big_914ed8df1e6cfeeecdb8eeb7a12f06a1.jpg');">
+							<div class="f-item--comments">122</div>
+						</div>
+						<div class="f-item--body">
+							<div class="f-content">
+								<div class="f-content--title">Netflix расширит киберпанковую вселенную</div>
+								<div class="f-content--text">По мотивам &laquo;Видоизмененного углерода&raquo; создадут аниме</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				</a>
+				<a class="f-item" href="/news/id6855">
+				<div class="slide f-slider--item">
+					<div class="f-item">
+						<div class="f-item--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/0/big_0f63a9d59ff89264686a29f42552e22d.jpg');">
+							<div class="f-item--comments">75</div>
+						</div>
+						<div class="f-item--body">
+							<div class="f-content">
+								<div class="f-content--title">The CW похитит 4400 человек</div>
+								<div class="f-content--text">Канал готовит перезагрузку сериала &laquo;4400&raquo;</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				</a>
+			</div>
+		<div class="f-more"><a href="/news/type_55">Все популярное</a></div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="f-section">
+	<div class="f-section--title">Топ за неделю</div>
+	<div class="f-section--body">
+		<div class="f-top">
+			<div class="f-top--blocks">
+				<div class="f-top--block">
+					<a class="f-card" href="/news/id6857">
+					<div class="f-card--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/a/m_a3365ae850b1af71982cb4413f1c7577.jpg');"></div>
+					<div class="f-content">
+						<div class="f-content--title">Дьявол в деталях и музыка проклятых</div>
+						<div class="f-content--text">Десять причин посмотреть сериал «Табу»</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">09 ноября 2018 г.</div>
+						<div class="f-card--comments">89</div>
+					</div>
+					</a>
+				</div>
+				<div class="f-top--block">
+					<a class="f-card" href="/news/id6870">
+					<div class="f-card--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/5/m_55ee0c30dd2ff4b43b4f40a23112da54.jpg');"></div>
+					<div class="f-content">
+						<div class="f-content--title">Абсолютная власть развращает абсолютно</div>
+						<div class="f-content--text">Озвученный тизер второй половины пятого сезона «Викингов»</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">13 ноября 2018 г.</div>
+						<div class="f-card--comments">32</div>
+					</div>
+					</a>
+				</div>
+				<div class="f-top--block">
+					<a class="f-card" href="/news/id6865">
+					<div class="f-card--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/0/m_0846a0425f97f0ff9c5946b52cff1f77.jpg');"></div>
+					<div class="f-content">
+						<div class="f-content--title">Главное веселье впереди</div>
+						<div class="f-content--text">Озвученный трейлер финального сезона «Готэма»</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">11 ноября 2018 г.</div>
+						<div class="f-card--comments">62</div>
+					</div>
+					</a>
+				</div>
+				<div class="f-top--block">
+					<a class="f-card" href="/news/id6868">
+					<div class="f-card--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/0/m_0ca992b7f52e9026d4a7952ad1bb8fff.jpg');"></div>
+					<div class="f-content">
+						<div class="f-content--title">«Сабрина — маленькая бедовая заноза»</div>
+						<div class="f-content--text">Кирнан Шипка о новом сериале Netflix, опоре человека на темную сторону и сдержанном коте</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">12 ноября 2018 г.</div>
+						<div class="f-card--comments">105</div>
+					</div>
+					</a>
+				</div>
+				<div class="f-top--block">
+					<a class="f-card" href="/news/id6861">
+					<div class="f-card--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/7/m_76516845229d363111f2d47b888f2029.jpg');"></div>
+					<div class="f-content">
+						<div class="f-content--title">Короли родятся. Короли погибнут</div>
+						<div class="f-content--text">Озвученный трейлер третьего сезона «Последнего королевства»</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">09 ноября 2018 г.</div>
+						<div class="f-card--comments">25</div>
+					</div>
+					</a>
+				</div>
+			</div>
+			<div class="f-top--links">
+				<a class="f-top--link is-active" href="/news/id6857">Дьявол в деталях и музыка проклятых<span>Десять причин посмотреть сериал «Табу»</span></a>
+				<a class="f-top--link" href="/news/id6870">Абсолютная власть развращает абсолютно<span>Озвученный тизер второй половины пятого сезона «Викингов»</span></a>
+				<a class="f-top--link" href="/news/id6865">Главное веселье впереди<span>Озвученный трейлер финального сезона «Готэма»</span></a>
+				<a class="f-top--link" href="/news/id6868">«Сабрина — маленькая бедовая заноза»<span>Кирнан Шипка о новом сериале Netflix, опоре человека на темную сторону и сдержанном коте</span></a>
+				<a class="f-top--link" href="/news/id6861">Короли родятся. Короли погибнут<span>Озвученный трейлер третьего сезона «Последнего королевства»</span></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="f-section">
+	<div class="f-section--title">Топ за месяц</div>
+	<div class="f-section--body">
+		<div class="f-top">
+			<div class="f-top--blocks">
+				<div class="f-top--block">
+					<a class="f-card" href="/news/id6857">
+					<div class="f-card--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/a/m_a3365ae850b1af71982cb4413f1c7577.jpg');"></div>
+					<div class="f-content">
+						<div class="f-content--title">Дьявол в деталях и музыка проклятых</div>
+						<div class="f-content--text">Десять причин посмотреть сериал «Табу»</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">09 ноября 2018 г.</div>
+						<div class="f-card--comments">89</div>
+					</div>
+					</a>
+				</div>
+				<div class="f-top--block">
+					<a class="f-card" href="/news/id6849">
+					<div class="f-card--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/8/m_8b6f993f9d41ed2f783904267afc6cc7.jpg');"></div>
+					<div class="f-content">
+						<div class="f-content--title">Рик Граймс отправится в новое путешествие</div>
+						<div class="f-content--spoiler">Возможны спойлеры!</div>
+						<div class="f-content--text">Будущее Линкольна и других актеров во вселенной «Ходячих»</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">06 ноября 2018 г.</div>
+						<div class="f-card--comments">81</div>
+					</div>
+					</a>
+				</div>
+				<div class="f-top--block">
+					<a class="f-card" href="/news/id6825">
+					<div class="f-card--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/c/m_cb7cc41f9b2a4de22742308845250835.jpg');"></div>
+					<div class="f-content">
+						<div class="f-content--title">Шальная императрица и чистильщик Кинг</div>
+						<div class="f-content--text">Десять причин посмотреть «Сынов анархии»</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">25 октября 2018 г.</div>
+						<div class="f-card--comments">101</div>
+					</div>
+					</a>
+				</div>
+				<div class="f-top--block">
+					<a class="f-card" href="/news/id6854">
+					<div class="f-card--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/e/m_ebede01a0dcfbe20cd0de0da469236ba.jpg');"></div>
+					<div class="f-content">
+						<div class="f-content--title">Джесси Пинкман вернется на экраны</div>
+						<div class="f-content--text">По сериалу «Во все тяжкие» снимут фильм</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">07 ноября 2018 г.</div>
+						<div class="f-card--comments">145</div>
+					</div>
+					</a>
+				</div>
+				<div class="f-top--block">
+					<a class="f-card" href="/news/id6842">
+					<div class="f-card--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/2/m_24b306c32e13d1e9cbd11da5b4401220.jpg');"></div>
+					<div class="f-content">
+						<div class="f-content--title">Меньше Джо, больше злодеев</div>
+						<div class="f-content--spoiler">Возможны спойлеры!</div>
+						<div class="f-content--text">Подробности грядущих серий «Флэша»</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">01 ноября 2018 г.</div>
+						<div class="f-card--comments">49</div>
+					</div>
+					</a>
+				</div>
+			</div>
+			<div class="f-top--links">
+				<a class="f-top--link is-active" href="/news/id6857">Дьявол в деталях и музыка проклятых<span>Десять причин посмотреть сериал «Табу»</span></a>
+				<a class="f-top--link" href="/news/id6849">Рик Граймс отправится в новое путешествие<span>Будущее Линкольна и других актеров во вселенной «Ходячих»</span></a>
+				<a class="f-top--link" href="/news/id6825">Шальная императрица и чистильщик Кинг<span>Десять причин посмотреть «Сынов анархии»</span></a>
+				<a class="f-top--link" href="/news/id6854">Джесси Пинкман вернется на экраны<span>По сериалу «Во все тяжкие» снимут фильм</span></a>
+				<a class="f-top--link" href="/news/id6842">Меньше Джо, больше злодеев<span>Подробности грядущих серий «Флэша»</span></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="f-section">
+	<div class="f-section--title">Новое видео</div>
+	<div class="f-section--body">
+		<div class="f-slider is-popular">
+			<div class="slide f-slider--item">
+				<div class="f-video">
+					<div class="f-video--in">
+						<div class="f-video--placeholder" data-src="http://store.bogi.ru/u/100/100054/0/pTi5vaaLI5h16EU_360p.mp4" data-quality="360p,480p,720p,1080p" data-id="1657" style="background-image: url('//static.lostfilm.tv/Video/5/7/1657_m.jpg');" onClick="PlayVideoNew(this)"></div>
+					</div>
+					<div class="f-video--body">
+						<a href="/video/id1657" class="f-item">
+						<div class="f-content">
+							<div class="f-content--title">Орвилл</div>
+							<div class="f-content--text">Озвученный тизер второго сезона. LostFilm.TV</div>
+						</div>
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="slide f-slider--item">
+				<div class="f-video">
+					<div class="f-video--in">
+						<div class="f-video--placeholder" data-src="http://store.bogi.ru/u/100/100054/0/mq52KeN7SJTFiGC_360p.mp4" data-quality="360p,480p,720p,1080p" data-id="1658" style="background-image: url('//static.lostfilm.tv/Video/5/8/1658_m.jpg');" onClick="PlayVideoNew(this)"></div>
+					</div>
+					<div class="f-video--body">
+						<a href="/video/id1658" class="f-item">
+						<div class="f-content">
+							<div class="f-content--title">Барыги: Мексика</div>
+							<div class="f-content--text">Озвученный трейлер первого сезона: &laquo;Знакомьтесь с агентом Кики Камареной&raquo;. LostFilm.TV</div>
+						</div>
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="slide f-slider--item">
+				<div class="f-video">
+					<div class="f-video--in">
+						<div class="f-video--placeholder" data-src="http://store.bogi.ru/u/100/100054/0/tCZvXPLK8h7JDqw_360p.mp4" data-quality="360p,480p,720p,1080p" data-id="1656" style="background-image: url('//static.lostfilm.tv/Video/5/6/1656_m.jpg');" onClick="PlayVideoNew(this)"></div>
+					</div>
+					<div class="f-video--body">
+						<a href="/video/id1656" class="f-item">
+						<div class="f-content">
+							<div class="f-content--title">Викинги</div>
+							<div class="f-content--text">Озвученный тизер второй половины пятого сезона: &laquo;Правление Ивара&raquo;. LostFilm.TV</div>
+						</div>
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="slide f-slider--item">
+				<div class="f-video">
+					<div class="f-video--in">
+						<div class="f-video--placeholder" data-src="http://store.bogi.ru/u/100/100054/0/WJYv6pZdLDgjzEs_360p.mp4" data-quality="360p,480p,720p,1080p" data-id="1655" style="background-image: url('//static.lostfilm.tv/Video/5/5/1655_m.jpg');" onClick="PlayVideoNew(this)"></div>
+					</div>
+					<div class="f-video--body">
+						<a href="/video/id1655" class="f-item">
+						<div class="f-content">
+							<div class="f-content--title">Готэм</div>
+							<div class="f-content--text">Озвученный трейлер к 5 сезону. LostFilm.TV</div>
+						</div>
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="slide f-slider--item">
+				<div class="f-video">
+					<div class="f-video--in">
+						<div class="f-video--placeholder" data-src="http://store.bogi.ru/u/100/100054/0/ibKivEgKAHtCXDJ_360p.mp4" data-quality="360p,480p,720p,1080p" data-id="1654" style="background-image: url('//static.lostfilm.tv/Video/5/4/1654_m.jpg');" onClick="PlayVideoNew(this)"></div>
+					</div>
+					<div class="f-video--body">
+						<a href="/video/id1654" class="f-item">
+						<div class="f-content">
+							<div class="f-content--title">Последнее королевство</div>
+							<div class="f-content--text">Озвученный трейлер третьего сезона. LostFilm.TV</div>
+						</div>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="f-more"><a href="/video/">Все видео</a></div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="f-tabs">
+	<div class="f-tabs--items">
+		<a class="f-tabs--item is-active" href="javascript:{};">Интервью</a>
+		<a class="f-tabs--item" href="javascript:{};">Статьи</a>
+		<a class="f-tabs--item" href="javascript:{};">Кастинги</a>
+	</div>
+	<div class="f-tabs--boxes">
+		<div class="f-tabs--box is-shown">
+			<div class="f-tabs--wrap">
+				<a class="f-row" href="/news/id6875">
+				<div class="f-row--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/a/a6e440bcbe9eaa84ac0ad362c10928f5.jpg');"></div>
+				<div class="f-row--body">
+					<div class="f-content">
+						<div class="f-content--title">«Американскую публику нагота отпугивает»</div>
+						<div class="f-content--text">Флоренс Пью о «Маленькой барабанщице» и отношении зрителей к ягодицами Тома Хиддлстона</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">15 ноября 2018 г.</div>
+						<div class="f-card--comments">15</div>
+					</div>
+				</div>
+				</a>
+				<a class="f-row" href="/news/id6868">
+				<div class="f-row--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/0/0ca992b7f52e9026d4a7952ad1bb8fff.jpg');"></div>
+				<div class="f-row--body">
+					<div class="f-content">
+						<div class="f-content--title">«Сабрина — маленькая бедовая заноза»</div>
+						<div class="f-content--text">Кирнан Шипка о новом сериале Netflix, опоре человека на темную сторону и сдержанном коте</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">12 ноября 2018 г.</div>
+						<div class="f-card--comments">105</div>
+					</div>
+				</div>
+				</a>
+				<a class="f-row" href="/news/id6843">
+				<div class="f-row--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/c/c0aac96f72a43049077a5daafdbf9e83.jpg');"></div>
+				<div class="f-row--body">
+					<div class="f-content">
+						<div class="f-content--title">«Я надеюсь на лучшее и планирую худшее»</div>
+						<div class="f-content--text">Нэйтан Филлион о «Новобранце», своих сильных сторонах и юморе в сериалах</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">01 ноября 2018 г.</div>
+						<div class="f-card--comments">40</div>
+					</div>
+				</div>
+				</a>
+				<a class="f-row" href="/news/id6840">
+				<div class="f-row--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/0/08d4dc82feb9bc0fb08b3957b4c7a622.jpg');"></div>
+				<div class="f-row--body">
+					<div class="f-content">
+						<div class="f-content--title">«Башня Титанов станет памятником над хладным телом Джеффа Джонса»</div>
+						<div class="f-content--text">Команда «Титанов» отвечает на вопросы зрителей</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">31 октября 2018 г.</div>
+						<div class="f-card--comments">59</div>
+					</div>
+				</div>
+				</a>
+				<a class="f-row" href="/news/id6798">
+				<div class="f-row--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/0/077c95ed65b97089834038cecbb57245.jpg');"></div>
+				<div class="f-row--body">
+					<div class="f-content">
+						<div class="f-content--title">«Мэтт Мёрдок — ходячий парадокс»</div>
+						<div class="f-content--text">Чарли Кокс о третьем сезоне «Сорвиголовы», новом костюме и внутренних демонах Мёрдока</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">21 октября 2018 г.</div>
+						<div class="f-card--comments">39</div>
+					</div>
+				</div>
+				</a>
+			</div>
+			<div class="f-more"><a href="/news/type_4">Все Интервью</a></div>
+		</div>
+		<div class="f-tabs--box">
+			<div class="f-tabs--wrap">
+				<a class="f-row" href="/news/id6857">
+				<div class="f-row--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/a/a3365ae850b1af71982cb4413f1c7577.jpg');"></div>
+				<div class="f-row--body">
+					<div class="f-content">
+						<div class="f-content--title">Дьявол в деталях и музыка проклятых</div>
+						<div class="f-content--text">Десять причин посмотреть сериал «Табу»</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">09 ноября 2018 г.</div>
+						<div class="f-card--comments">89</div>
+					</div>
+				</div>
+				</a>
+				<a class="f-row" href="/news/id6846">
+				<div class="f-row--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/d/dc38e1ce2f0c3218ff09bd76900af588.jpg');"></div>
+				<div class="f-row--body">
+					<div class="f-content">
+						<div class="f-content--title">Старая сказка на новый лад</div>
+						<div class="f-content--text">Премьера сериала «Расскажи мне сказку»</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">04 ноября 2018 г.</div>
+						<div class="f-card--comments">35</div>
+					</div>
+				</div>
+				</a>
+				<a class="f-row" href="/news/id6845">
+				<div class="f-row--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/c/c1a95580bf77ab66e2f1b21bb8650451.jpg');"></div>
+				<div class="f-row--body">
+					<div class="f-content">
+						<div class="f-content--title">На сцене с врагом</div>
+						<div class="f-content--text">Премьера сериала «Маленькая барабанщица»</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">03 ноября 2018 г.</div>
+						<div class="f-card--comments">22</div>
+					</div>
+				</div>
+				</a>
+				<a class="f-row" href="/news/id6834">
+				<div class="f-row--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/e/eafd4d1f8464f73247f61ce3eff61efc.jpg');"></div>
+				<div class="f-row--body">
+					<div class="f-content">
+						<div class="f-content--title">С днем рождения, ведьма!</div>
+						<div class="f-content--text">Премьера сериала «Леденящие душу приключения Сабрины»</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">29 октября 2018 г.</div>
+						<div class="f-card--comments">26</div>
+					</div>
+				</div>
+				</a>
+				<a class="f-row" href="/news/id6832">
+				<div class="f-row--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/b/bf640d1203213d73293fc678b889966b.jpg');"></div>
+				<div class="f-row--body">
+					<div class="f-content">
+						<div class="f-content--title">Сверхъестественные детки подросли</div>
+						<div class="f-content--text">Премьера сериала «Наследие»</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">28 октября 2018 г.</div>
+						<div class="f-card--comments">33</div>
+					</div>
+				</div>
+				</a>
+			</div>
+			<div class="f-more"><a href="/news/type_5">Все Статьи</a></div>
+		</div>
+		<div class="f-tabs--box">
+			<div class="f-tabs--wrap">
+				<a class="f-row" href="/news/id6877">
+				<div class="f-row--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/9/9fb93bc5d071b907f3b70643ef743521.jpg');"></div>
+				<div class="f-row--body">
+					<div class="f-content">
+						<div class="f-content--title">Любовь витает в воздухе</div>
+						<div class="f-content--text">Кастинг первого сезона «Манифеста»</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">16 ноября 2018 г.</div>
+						<div class="f-card--comments">2</div>
+					</div>
+				</div>
+				</a>
+				<a class="f-row" href="/news/id6876">
+				<div class="f-row--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/5/540a14c434403def777ed193a150cd40.jpg');"></div>
+				<div class="f-row--body">
+					<div class="f-content">
+						<div class="f-content--title">От заката до рассвета в Мексике</div>
+						<div class="f-content--text">Кастинг сериала «Барыги: Мексика»</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">15 ноября 2018 г.</div>
+						<div class="f-card--comments">13</div>
+					</div>
+				</div>
+				</a>
+				<a class="f-row" href="/news/id6874">
+				<div class="f-row--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/e/e04349e55b66a0a8eec305d7e1c8ea84.jpg');"></div>
+				<div class="f-row--body">
+					<div class="f-content">
+						<div class="f-content--title">Наука на службе сил зла</div>
+						<div class="f-content--text">Кастинг второго сезона «Черной молнии»</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">14 ноября 2018 г.</div>
+						<div class="f-card--comments">16</div>
+					</div>
+				</div>
+				</a>
+				<a class="f-row" href="/news/id6872">
+				<div class="f-row--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/b/be1e69318305c58e2e15c1bcbeb766e6.jpg');"></div>
+				<div class="f-row--body">
+					<div class="f-content">
+						<div class="f-content--title">Семья мечтателей</div>
+						<div class="f-content--text">Кастинг четвертого сезона «Супергёрл»</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">13 ноября 2018 г.</div>
+						<div class="f-card--comments">18</div>
+					</div>
+				</div>
+				</a>
+				<a class="f-row" href="/news/id6853">
+				<div class="f-row--photo" style="background-image: url('//static.lostfilm.tv/News/Covers/4/4d77c7099654cc51e043ab1b51aeb420.jpg');"></div>
+				<div class="f-row--body">
+					<div class="f-content">
+						<div class="f-content--title">Хирам Лодж везде поспел</div>
+						<div class="f-content--text">Кастинг третьего сезона «Ривердэйла»</div>
+					</div>
+					<div class="f-card--tools">
+						<div class="f-card--date">07 ноября 2018 г.</div>
+						<div class="f-card--comments">7</div>
+					</div>
+				</div>
+				</a>
+			</div>
+			<div class="f-more"><a href="/news/type_2">Все Кастинги</a></div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+					</div>
+				</div>
+				<div id="main-rightt-side">
+				
+
+
+
+
+
+<div class="user-pane">
+	<a href="/login" class="link">Вход</a>
+	<div class="divider">|</div>
+	<a href="/reg" class="link gray-color">Регистрация</a>
+	<div class="tail"></div>
+</div>
+<div class="clr"></div>
+<div class="clr"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<div class="aodd">
+<iframe style="width:1px;height:1px;display:block" id="test_iframe"></iframe>
+<script type="text/javascript" src="//www.lostfilm.tv/pereP/?a=b&amp;c=1&amp;u="></script>
+</div>
+
+
+
+<div class="new-movies-block clearfix">
+	<a class="header" href="/new/">
+		<div class="title">Новинки</div>
+	</a>
+	<div class="hor-spacer3"></div>
+	<a class="new-movie" href="/series/Riverdale/season_3/episode_5/" title="Ривердэйл">
+		<div class="title">
+		3 сезон 5 серия
+		</div>
+		<div class="date">16.11.2018</div>
+		<img src="//static.lostfilm.tv/Images/318/Posters/image.jpg" />
+	</a>
+	<div class="hor-spacer1"></div>
+	<a class="new-movie" href="/series/The_Man_in_the_High_Castle/season_3/episode_7/" title="Человек в высоком замке">
+		<div class="title">
+		3 сезон 7 серия
+		</div>
+		<div class="date">16.11.2018</div>
+		<img src="//static.lostfilm.tv/Images/267/Posters/image.jpg" />
+	</a>
+	<div class="hor-spacer1"></div>
+	<a class="new-movie" href="/series/Lethal_Weapon/season_3/episode_7/" title="Смертельное оружие">
+		<div class="title">
+		3 сезон 7 серия
+		</div>
+		<div class="date">16.11.2018</div>
+		<img src="//static.lostfilm.tv/Images/288/Posters/image.jpg" />
+	</a>
+	<div class="hor-spacer1"></div>
+	<a class="new-movie" href="/series/Black_Lightning/season_2/episode_5/" title="Черная молния">
+		<div class="title">
+		2 сезон 5 серия
+		</div>
+		<div class="date">15.11.2018</div>
+		<img src="//static.lostfilm.tv/Images/351/Posters/image.jpg" />
+	</a>
+	<div class="hor-spacer1"></div>
+	<a class="new-movie" href="/series/The_Rookie/season_1/episode_4/" title="Новобранец">
+		<div class="title">
+		1 сезон 4 серия
+		</div>
+		<div class="date">15.11.2018</div>
+		<img src="//static.lostfilm.tv/Images/384/Posters/image.jpg" />
+	</a>
+	<div class="hor-spacer1"></div>
+	<a class="new-movie" href="/series/The_Gifted/season_2/episode_7/" title="Одаренные">
+		<div class="title">
+		2 сезон 7 серия
+		</div>
+		<div class="date">15.11.2018</div>
+		<img src="//static.lostfilm.tv/Images/338/Posters/image.jpg" />
+	</a>
+	<div class="hor-spacer1"></div>
+	<a class="new-movie" href="/series/The_Flash/season_5/episode_5/" title="Флэш">
+		<div class="title">
+		5 сезон 5 серия
+		</div>
+		<div class="date">15.11.2018</div>
+		<img src="//static.lostfilm.tv/Images/226/Posters/image.jpg" />
+	</a>
+	<div class="hor-spacer1"></div>
+	<a class="new-movie" href="/series/This_Is_Us/season_3/episode_7/" title="Это мы">
+		<div class="title">
+		3 сезон 7 серия
+		</div>
+		<div class="date">15.11.2018</div>
+		<img src="//static.lostfilm.tv/Images/317/Posters/image.jpg" />
+	</a>
+	<div class="hor-spacer1"></div>
+	<a class="new-movie" href="/series/The_Little_Drummer_Girl/season_1/episode_3/" title="Маленькая барабанщица">
+		<div class="title">
+		1 сезон 3 серия
+		</div>
+		<div class="date">15.11.2018</div>
+		<img src="//static.lostfilm.tv/Images/395/Posters/image.jpg" />
+	</a>
+	<div class="hor-spacer1"></div>
+	<a class="new-movie" href="/series/Manifest/season_1/episode_7/" title="Манифест">
+		<div class="title">
+		1 сезон 7 серия
+		</div>
+		<div class="date">14.11.2018</div>
+		<img src="//static.lostfilm.tv/Images/388/Posters/image.jpg" />
+	</a>
+	<div class="hor-spacer1"></div>
+	<div class="clr"></div>
+	<div class="link-box" style="cursor:pointer; bottom: 0; height: 50px; left: 0; overflow: hidden; right: 0;" onclick="goTo('/new/',false);">
+		<div style="border-top: 1px solid #e5e5e5; width:92%; margin-left:10px;"></div>
+		<a href="/new/" class="link arrow">Все новинки</a>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br />
+<!-- Yandex.RTB R-A-128058-2 -->
+<div id="yandex_rtb_R-A-128058-2"></div>
+<script type="text/javascript">
+(function(w, d, n, s, t) {
+w[n] = w[n] || [];
+w[n].push(function() {
+Ya.Context.AdvManager.render({
+blockId: "R-A-128058-2",
+renderTo: "yandex_rtb_R-A-128058-2",
+async: true
+});
+});
+t = d.getElementsByTagName("script")[0];
+s = d.createElement("script");
+s.type = "text/javascript";
+s.src = "//an.yandex.ru/system/context.js";
+s.async = true;
+t.parentNode.insertBefore(s, t);
+})(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+				</div>
+				<div class="clr"></div>
+				<div class="footer-push"></div>
+			</div>
+		<div>
+	</div>
+		</div>
+		<div class="footer">
+			<div class="wrapper">
+				<div class="links"><a href="/series/">Сериалы</a>  |  <a href="/news/">Новости</a>  |  <a href="/new/">Новинки</a>  |  <a href="/video/">Видео</a>  |  <a href="/schedule/">Расписание</a>  |  <a href="//old.lostfilm.tv">Старый сайт</a>  |  <a href="//vk.com/lostfilmtv_official" target="_blank">Официальная группа в VK</a></div>
+				<div class="links"><a href="/about/">О проекте</a>  |  <a href="/rules/">Правила</a>  |  <a href="/faq/">FAQ</a>  |  <a href="http://adverti.me" target="_blank">Размещение рекламы</a>  |  <a href="/feedback/">Обратная связь</a>  |  <a href="/rss.xml">RSS</a></div>
+				<p>LostFilm.TV. Лучшие сериалы, 2018 г. Копирование материалов сайта запрещено.</p>
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t25.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число посетителей за"+
+" сегодня' "+
+"border='0' width='88' height='15'><\/a>")
+</script><!--/LiveInternet-->
+&nbsp;
+<!--begin of Rambler's Top100 code -->
+<img src="//counter.rambler.ru/top100.cnt?983195" alt="" width=1 height=1 border=0 align="left" />
+<!--end of Top100 code-->
+			</div>
+		</div>
+
+<script type="text/javascript">
+UserData = new Object();
+SessionData = new Object();
+SessionData.loyal = '';
+blocker_warning_tmpl = '<div class="alarm2">В Вашем браузере включено расширение AdBlock и/или AdBlock Plus, которое ограничивает функционал сайта www.lostfilm.tv. Рекомендуем отключить его, чтобы Вы могли полноценно пользоваться сайтом. <a href="/adblock_instructions" style="color:#fff;">Как это сделать?</a>.</div>';
+$(document).ready(function(){
+//	if(!im_a_loyal_person)
+//		$('body').append(blocker_warning_tmpl);
+});
+</script>
+		
+		<div id="takeMeToTheTopOfPagePlease"></div>
+		<div class="bug-window-container" onClick="goTo('/feedback/',false)">
+			<div class="bug-detected-window">
+				Я молодец,
+				<br />
+				я нашел ошибку
+			</div>
+		</div>
+<!-- 157ER -->
+	</body>
+</html>

@@ -1,0 +1,18 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Запуск папки Bash 
+Comment=Comment here (though I'm not sure what does this do)
+Exec="/home/jeen/Documents/Xmind/XMind_amd64/./XMind"
+#Icon=/usr/share/icons/gnome/128x128/apps/libreoffice-base.png
+Icon=/home/jeen/Bash/zDesctop/logo.png
+Terminal=false
+StartupNotify=true
+Type=Application
+OnlyShowIn=GNOME;Unity;
+Categories=GNOME;GTK;Core;
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=nautilus
+X-GNOME-Bugzilla-Component=general
+X-GNOME-Bugzilla-Version=3.0.0
+X-Ubuntu-Gettext-Domain=nautilus
+Actions=Window;

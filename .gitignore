@@ -1,0 +1,10 @@
+/Python/venv
+*~
+/.idea
+/trash
+errors*.txt
+/test
+*.pdf
+*.mp4
+*.mp3
+/BackUp/*
