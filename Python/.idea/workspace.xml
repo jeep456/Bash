@@ -121,7 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/Загрузки/code.py" />
         <option value="$PROJECT_DIR$/test/inputs.py" />
         <option value="$PROJECT_DIR$/Films/films.py" />
         <option value="$PROJECT_DIR$/test/email.py" />
@@ -172,6 +171,7 @@
         <option value="$PROJECT_DIR$/text/decor.py" />
         <option value="$PROJECT_DIR$/text/vkont.py" />
         <option value="$PROJECT_DIR$/Scripts/Remover.py" />
+        <option value="$PROJECT_DIR$/test/fram.py" />
       </list>
     </option>
   </component>
@@ -203,7 +203,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -224,12 +223,18 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="text" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -411,8 +416,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858758" visible="true" weight="0.17910448" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858758" visible="true" weight="0.18131565" />
       <window_info id="Structure" order="1" sideWeight="0.50141245" side_tool="true" weight="0.1310116" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -434,7 +440,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Films/vstuplenie-1963-45942.txt" />
     <entry file="file://$PROJECT_DIR$/Films/979121.txt" />
     <entry file="file://$PROJECT_DIR$/Films/kinopGenres2.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -730,6 +735,16 @@
           <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
           <folding>
             <element signature="e#162#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/fram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
