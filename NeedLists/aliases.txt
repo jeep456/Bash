@@ -13,6 +13,7 @@ alias getchmod="stat
 alias getColumns='$HOME/Bash/Scripts/getColumns.sh'
 alias gg='gedit
 alias g='grep
+alias gush='git
 alias insf='sudo
 alias ins='sudo
 alias in='sudo
