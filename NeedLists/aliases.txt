@@ -63,7 +63,6 @@ alias s777='sudo
 alias scron='export
 alias search='searchText
 alias serv_cl='fuser
-alias @serve='php
 alias serve='python
 alias server='python
 alias @server='serv
@@ -77,7 +76,9 @@ alias snn='sudo
 alias @sns='sudo
 alias sn='sudo
 alias @snw='sudo
+alias @s='php
 alias srm='sudo
+alias @ss='php
 alias sss='PS1="\u:[sht]\$
 alias sucp='sudo
 alias sv='sudo
