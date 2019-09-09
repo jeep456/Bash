@@ -60,6 +60,7 @@ alias rmp3='rnm(){
 alias rr='ranger'
 alias rrr='rm
 alias s777='sudo
+alias sb='source
 alias scron='export
 alias search='searchText
 alias serv_cl='fuser
@@ -83,6 +84,7 @@ alias sss='PS1="\u:[sht]\$
 alias sucp='sudo
 alias sv='sudo
 alias @tinker='php
+alias tmux='ssh
 alias touch_sh='jeeno
 alias tr='cd
 alias ts='date
